@@ -1,3 +1,3 @@
 <?php
-  echo "Welcome to Dousic";
+  echo "Welcome to Dousic 2";
 ?>
